@@ -1,4 +1,4 @@
-                            <form id="contact" action="" method="post">
+                            <form id="contact" action="/Zadanie/app/form_file.php" method="POST">
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <div class="section-heading">

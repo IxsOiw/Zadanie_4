@@ -1,4 +1,6 @@
-                  <form id="search-form" name="gs" method="submit" role="search" action="post">
+
+                  <form id="search-form" name="gs" method="GET" role="search" action="/Zadanie/app/form_to_file.php">
+
                       <div class="row">
                           <div class="col-lg-3">
                               <fieldset>
@@ -50,3 +52,4 @@
                       </div>
                   </form>
 
+                  <?php formTOfile(); ?>
